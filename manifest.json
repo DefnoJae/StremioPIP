@@ -1,0 +1,15 @@
+{
+  "id": "stremio-pip",
+  "name": "Stremio PiP",
+  "version": "0.1.0",
+  "author": "DefnoJae",
+  "description": "Adds a Picture-in-Picture button to the Stremio v5 player using the native HTML video Picture-in-Picture API.",
+  "updateUrl": "https://raw.githubusercontent.com/DefnoJae/StremioPIP/main/manifest.json",
+  "releasesUrl": "https://github.com/DefnoJae/StremioPIP/releases",
+  "compat": {
+    "_comment": "WebMod metadata. Runtime capability detection is preferred because Stremio's web UI updates continuously.",
+    "communityShellMin": "5.0.20",
+    "stremioWeb": "HTML5 video player with Picture-in-Picture API support",
+    "selectorsSchema": 1
+  }
+}
