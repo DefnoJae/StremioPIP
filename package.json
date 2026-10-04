@@ -1,0 +1,9 @@
+{
+  "name": "stremio-pip",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Picture-in-Picture WebMod for the Stremio v5 player",
+  "scripts": {
+    "check": "node --check stremio-pip.js"
+  }
+}
